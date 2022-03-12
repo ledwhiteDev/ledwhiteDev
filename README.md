@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ledwhiteDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### My stats
 
-<!---
-ledwhiteDev/ledwhiteDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xVnukz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="ledwhiteDev's Github Stats">
+</p>
+
+<br>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVnukz&show_icons=true&hide_border=true&theme=radical%22%3E
+</p>
+
+                           
